@@ -1,2 +1,3 @@
 # Projetos
- Meu primeiro diretorio
+ Bora! Meu primeiro diretorio.
+ Testando meu primeiro repositorio 
